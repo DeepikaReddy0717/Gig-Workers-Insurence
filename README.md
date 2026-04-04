@@ -168,18 +168,18 @@ We don’t just insure workers. We protect income before loss happens.
 
 ---
 
-## 👩‍💻 Author  
+##  Author  
 
 Coding Divas 
 
 ---
 
-## 🏆 Hackathon Submission  
+##  Hackathon Submission  
 
 DevTrails Phase-2 Project  
 
 ---
 
-## 🎥 Demo Video  
+##  Demo Video  
 
 (Add your demo video link here)
