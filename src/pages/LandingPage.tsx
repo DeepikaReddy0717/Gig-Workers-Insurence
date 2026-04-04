@@ -29,7 +29,7 @@ export default function LandingPage() {
         <div className="container mx-auto flex items-center justify-between py-4 px-6">
           <div className="flex items-center gap-2">
             <Shield className="h-7 w-7 text-primary" />
-            <span className="text-xl font-bold tracking-tight">GigShield AI</span>
+            <span className="text-xl font-bold tracking-tight">PulseProtect AI</span>
           </div>
           <div className="flex items-center gap-3">
             <Button variant="ghost" onClick={() => navigate('/admin')}>Admin Panel</Button>
@@ -83,7 +83,7 @@ export default function LandingPage() {
       <section className="py-20 bg-surface">
         <div className="container mx-auto px-6">
           <div className="text-center mb-12">
-            <h2 className="text-3xl font-bold mb-3">How GigShield Works</h2>
+            <h2 className="text-3xl font-bold mb-3">How PulseProtect AI Works</h2>
             <p className="text-muted-foreground max-w-lg mx-auto">Fully automated parametric insurance — from trigger detection to payout.</p>
           </div>
           <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6 max-w-5xl mx-auto">
@@ -120,7 +120,7 @@ export default function LandingPage() {
         <div className="container mx-auto px-6 flex items-center justify-between text-sm text-muted-foreground">
           <div className="flex items-center gap-2">
             <Shield className="h-4 w-4 text-primary" />
-            <span>GigShield AI — Hackathon Prototype</span>
+            <span>PulseProtect AI — Hackathon Prototype</span>
           </div>
           <span>Built for Guidewire Hackathon 2026</span>
         </div>
